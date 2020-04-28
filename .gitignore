@@ -1,0 +1,5 @@
+### Visual Studio ###
+Debug/**
+Release/**
+.vs/**
+*.user
